@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html bulunuyor.
-
 ![Murat Yaşar](https://avatars.githubusercontent.com/u/127419303?s=40&v=4)
+
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html bulunuyor.
 
 ## Installation
 Öncelikle projeyi [clonlayın](https://github.com/murat-yasar/kodluyoruzilkrepo).
